@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/marinassoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marinassoh" height="30" width="40" /></a>
 <a href="https://twitter.com/marinassoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marinassoh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/🌐 marina assohoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="🌐 marina assohoun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marina-assohoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina assohoun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
