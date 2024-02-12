@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Colorand](https://github.com/marinaassohoun/colorand)
 
-- 🌱 I’m currently learning **ReactJs, ReactNative**
+- 🌱 I’m currently learning **Java, SpringBoot, Angular**
 
 - 📫 How to reach me **marinaassohoun@gmail.com**
 
